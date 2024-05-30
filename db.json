@@ -2,18 +2,53 @@
   "articles": [
     {
       "id": null,
-      "title": "123",
-      "content": "fwefwfwfw"
+      "title": "data 1",
+      "content": "makanan"
     },
     {
       "id": null,
-      "title": "",
-      "content": ""
+      "title": "data 2",
+      "content": "minuman"
     },
     {
       "id": null,
-      "title": "123f4b4erg43g",
-      "content": "verververve"
+      "title": "data 3",
+      "content": "kuliah"
+    },
+    {
+      "id": null,
+      "title": "data 4",
+      "content": "kendaraan"
+    },
+    {
+      "id": null,
+      "title": "data 5",
+      "content": "rumah"
+    },
+    {
+      "id": null,
+      "title": "data 6",
+      "content": "pekerjaan"
+    },
+    {
+      "id": null,
+      "title": "data 7",
+      "content": "karyawan"
+    },
+    {
+      "id": null,
+      "title": "data 8",
+      "content": "investasi"
+    },
+    {
+      "id": null,
+      "title": "data 9",
+      "content": "tujuan hidup"
+    },
+    {
+      "id": null,
+      "title": "data 10",
+      "content": "pensiunan"
     }
   ]
 }
